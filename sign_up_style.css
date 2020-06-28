@@ -1,0 +1,173 @@
+@import http: //fonts.googleapis.com/css?family=Raleway;
+#main {
+    width: 960px;
+    margin: 50px auto;
+    font-family: raleway;
+}
+
+#sign_up {
+    width: 700px;
+    position: relative;
+    left: 134px;
+    float: left;
+    border-radius: 10px;
+    font-family: raleway;
+    border: 2px solid #ccc;
+    padding: 10px 40px 25px;
+    margin-top: 50px;
+    /* background-color: green;*/
+}
+
+span {
+    color: red;
+    margin: auto;
+    position: relative;
+    float: left;
+}
+
+h2 {
+    background-color: #FEFFED;
+    text-align: center;
+    border-radius: 10px 10px 0 0;
+    margin: -10px -40px;
+    padding: 15px
+}
+
+hr {
+    border: 0;
+    border-bottom: 1px solid #ccc;
+    margin: 10px -40px;
+    margin-bottom: 30px
+}
+
+.name {
+    width: 100%;
+    position: relative;
+    float: left;
+}
+
+input[type=text],
+input[type=email],
+input[type=number] {
+    width: 88%;
+    padding: 10px;
+    margin-top: 8px;
+    border: .5px solid #ccc;
+    padding-left: 5px;
+    font-size: 16px;
+    font-family: raleway;
+    position: relative;
+    float: right;
+    border: 2px solid #FFCB00;
+    border-radius: 3px;
+}
+
+label {
+    width: 11%;
+    position: relative;
+    float: left;
+    text-align: left;
+    height: 40px;
+    margin-top: 14px;
+}
+
+#us_pass {
+    position: relative;
+    float: right;
+}
+
+input[type=password] {
+    width: 34%;
+    padding: 10px;
+    margin-top: 8px;
+    border: .5px solid #ccc;
+    padding-left: 5px;
+    font-size: 16px;
+    font-family: raleway;
+    position: relative;
+    float: right;
+    border: 2px solid #FFCB00;
+    border-radius: 3px;
+}
+
+input[type=date] {
+    position: relative;
+    left: 6px;
+    margin-top: 12px;
+    border: 2px solid #FFCB00;
+    border-radius: 4px;
+}
+
+#username {
+    width: 40%;
+    padding: 10px;
+    margin-top: 8px;
+    border: .5px solid #ccc;
+    padding-left: 5px;
+    font-size: 16px;
+    font-family: raleway;
+    position: relative;
+    float: left;
+    border: 2px solid #FFCB00;
+    border-radius: 3px;
+    margin-left: 7px;
+}
+
+#class {
+    width: 40%;
+    padding: 10px;
+    margin-top: 8px;
+    border: .5px solid #ccc;
+    padding-left: 5px;
+    font-size: 16px;
+    font-family: raleway;
+    position: relative;
+    float: left;
+    border: 2px solid #FFCB00;
+    border-radius: 3px;
+    margin-left: 7px;
+}
+
+#student_id {
+    width: 40%;
+    padding: 10px;
+    margin-top: 8px;
+    border: .5px solid #ccc;
+    padding-left: 5px;
+    font-size: 16px;
+    font-family: raleway;
+    position: relative;
+    float: left;
+    border: 2px solid #FFCB00;
+    border-radius: 3px;
+    margin-left: 7px;
+}
+
+#roll_no {
+    width: 34%;
+    padding: 10px;
+    margin-top: 8px;
+    border: .5px solid #ccc;
+    padding-left: 5px;
+    font-size: 16px;
+    font-family: raleway;
+    position: relative;
+    float: right;
+    border: 2px solid #FFCB00;
+    border-radius: 3px;
+}
+
+input[type=submit] {
+    background-color: #FFBC00;
+    color: #fff;
+    border: 2px solid #FFCB00;
+    padding: 10px;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 8px;
+    margin-bottom: 15px;
+    position: relative;
+    float: right;
+    margin-left: 185px;
+}
